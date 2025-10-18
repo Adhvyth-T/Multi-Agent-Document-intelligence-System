@@ -651,11 +651,6 @@ MIT License - See LICENSE file for details
 - **OpenRouter** - LLM access
 - **DuckDuckGo** - Free web search
 
-## 📞 Support
-
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/multimodal-rag-agent/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/multimodal-rag-agent/discussions)
 
 ## 🗺️ Roadmap
 
@@ -670,6 +665,3 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Built with ❤️ for serious research**
-
-**Ready to conduct deep research?** Start with `GETTING_STARTED_DEEP_RESEARCH.md`! 🚀🔬
